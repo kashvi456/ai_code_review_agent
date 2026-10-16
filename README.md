@@ -1,6 +1,6 @@
 # AI Code Review Agent
 
-An AI powered command-line code review agent built with Pyhton, Langchain and OpenAI's GPT-4o that analyzes source code for bugs, security risks and style compliance.
+An AI powered command-line code review agent built with Python, Langchain and OpenAI's GPT-4o that analyzes source code for bugs, security risks and style compliance.
 
 ## Tech Stack:
 **Language**: Python 3.11
